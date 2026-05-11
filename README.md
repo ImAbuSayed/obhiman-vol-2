@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/obhiman-vol-2/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Obhiman, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/obhiman-vol-2/) |
+| **Get License** | [Request Licensing for Obhiman, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/obhiman-vol-2/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `351a63139beb807dc23e09f0e9930ab98469b74cc777715cbffc26209dbc12b2` |
 | **Timestamp** | May 11, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
